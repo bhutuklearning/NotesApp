@@ -10,6 +10,18 @@
 
 ---
 
+## Screenshots
+
+### Login Page
+![Login Page](screenshots/login_page.png)
+
+### Register Page
+![Register Page](screenshots/register_page.png)
+
+### Dashboard (Notes CRUD)
+![Dashboard](screenshots/Main_page.png)
+
+
 ## 🏗️ Project Structure
 
 ```
